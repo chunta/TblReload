@@ -1,0 +1,6 @@
+framework module Pods_TblRelayout {
+  umbrella header "Pods-TblRelayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
